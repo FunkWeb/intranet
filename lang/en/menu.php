@@ -13,5 +13,9 @@ return [
 
     'search' => 'Search',
     'home' => 'Home',
+    'jobs' => 'Jobs',
+    'support' => 'Support',
+    'booking' => 'Booking',
+    'settings' => 'Settings',
 
 ];

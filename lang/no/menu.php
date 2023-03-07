@@ -13,5 +13,9 @@ return [
 
     'search' => 'Søk',
     'home' => 'Hjem',
+    'jobs' => 'Stillinger',
+    'support' => 'Support',
+    'booking' => 'Booking',
+    'settings' => 'Innstillinger',
 
 ];
